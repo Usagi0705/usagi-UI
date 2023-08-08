@@ -1,0 +1,49 @@
+<div class="card">
+                      <div class="card-header">
+                        <div class="d-flex">
+                          <div class="flex-grow-1">
+                            <h5 class="card-title mb-0">履歷技能</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <div>
+                          <div class="row">
+                            <p>Word</p>
+                            <p>Excel</p>
+                            <!-- <a href="#" class="btn btn-primary">
+                              新增履歷技能 +
+                            </a> -->
+                            <!-- end col -->
+                          </div>
+                          <!-- end row -->
+                        </div>
+                      </div>
+                      <!-- end card body -->
+                    </div>
+                    <!-- end card -->
+
+                    <div class="card">
+                      <div class="card-header">
+                        <div class="d-flex">
+                          <div class="flex-grow-1">
+                            <h5 class="card-title mb-0">履歷證照</h5>
+                          </div>
+                        </div>
+                      </div>
+                      <div class="card-body">
+                        <div>
+                          <div class="row">
+                            <p>會計師</p>
+                            <p>律師</p>
+                            <!-- <a href="#" class="btn btn-primary">
+                              新增履歷證照 +
+                            </a> -->
+                            <!-- end col -->
+                          </div>
+                          <!-- end row -->
+                        </div>
+                      </div>
+                      <!-- end card body -->
+                    </div>
+                    <!-- end card -->
